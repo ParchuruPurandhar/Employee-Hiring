@@ -343,8 +343,9 @@ Employee-Performance-Prediction/
 ├── requirements.txt
 ├── README.md
 └── assets/
+---
 
-## Sample Prediction Input
+
 
 ```text
 Age: 30
@@ -368,8 +369,6 @@ Predicted Performance Rating: 4 ⭐
 
 ## Author
 
-**Purandhar**
+**Parchuru Purandhar**
 
 Machine Learning Project – Employee Performance Rating Prediction System
-
-This README is polished for GitHub portfolios, internship applications, LinkedIn showcases, and HR analytics/data science project demonstrations.
