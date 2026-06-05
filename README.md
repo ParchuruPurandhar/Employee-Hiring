@@ -324,6 +324,7 @@ This project can help organizations:
 
 ---
 
+
 ## Repository Structure
 
 ```text
@@ -339,33 +340,31 @@ Employee-Performance-Prediction/
 │   ├── Employee_model.pkl
 │   └── preprocessor.pkl
 │
-├── app.py
-├── requirements.txt
 ├── README.md
+├── requirements.txt
 └── assets/
----
-
-
-
-```text
-Age: 30
-Department: Sales
-Job Role: Sales Executive
-Business Travel: Travel_Rarely
-Gender: Male
-Marital Status: Married
-Monthly Income: 5000
-OverTime: Yes
-Years At Company: 5
 ```
 
-### Prediction Output
+## Sample Input
+
+| Feature | Value |
+|----------|--------|
+| Age | 30 |
+| Department | Sales |
+| Job Role | Sales Executive |
+| Business Travel | Travel_Rarely |
+| Gender | Male |
+| Marital Status | Married |
+| Monthly Income | 5000 |
+| OverTime | Yes |
+| Years At Company | 5 |
+
+
+## Prediction Output
 
 ```text
 Predicted Performance Rating: 4 ⭐
 ```
-
----
 
 ## Author
 
